@@ -1,0 +1,8 @@
+D:\MDWork\Repository\mingdao2\mingdaoApplication\mingdaoApplication\bin\Debug\mingdaoApplication.exe
+D:\MDWork\Repository\mingdao2\mingdaoApplication\mingdaoApplication\bin\Debug\mingdaoApplication.pdb
+D:\MDWork\Repository\mingdao2\mingdaoApplication\mingdaoApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MDWork\Repository\mingdao2\mingdaoApplication\mingdaoApplication\obj\x86\Debug\mingdaoApplication.Properties.Resources.resources
+D:\MDWork\Repository\mingdao2\mingdaoApplication\mingdaoApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MDWork\Repository\mingdao2\mingdaoApplication\mingdaoApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MDWork\Repository\mingdao2\mingdaoApplication\mingdaoApplication\obj\x86\Debug\mingdaoApplication.exe
+D:\MDWork\Repository\mingdao2\mingdaoApplication\mingdaoApplication\obj\x86\Debug\mingdaoApplication.pdb
