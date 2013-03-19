@@ -1,0 +1,5 @@
+D:\Repositories\mingdao2\mingdaoWeb\mingdaoWeb\bin\mingdaoWeb.dll
+D:\Repositories\mingdao2\mingdaoWeb\mingdaoWeb\bin\mingdaoWeb.pdb
+D:\Repositories\mingdao2\mingdaoWeb\mingdaoWeb\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositories\mingdao2\mingdaoWeb\mingdaoWeb\obj\Debug\mingdaoWeb.dll
+D:\Repositories\mingdao2\mingdaoWeb\mingdaoWeb\obj\Debug\mingdaoWeb.pdb
